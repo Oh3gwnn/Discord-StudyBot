@@ -38,3 +38,5 @@ out/
 .vscode/
 Discord-AlarmBot.zip
 node_modules
+package.json
+package-lock.json
