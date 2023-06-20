@@ -1,7 +1,5 @@
 # Discord-StudyBot
 
----
-
 ```
 디스코드 학습 공유 자율 스터디 - StudyBot 제작
 ```
@@ -9,8 +7,6 @@
 <br>
 
 ## History
-
----
 
 ### 2023-06-19
 > - StudyBot 생성(간단한 대답 기능)
