@@ -17,7 +17,7 @@
 <br>
 
 ### 2023-06-20 
-> - StudyBot, WebHook: message 형식 변경 (Content -> Embed) 
+> - StudyBot, WebHook: message 형식 변경 (Text -> Embed) 
 > - StudyBot: 본인 메시지 원하는 개수만큼 삭제 기능 추가
 
 ![StudyBot](img/dicobot1.png)
